@@ -1,20 +1,20 @@
 [
   {
-    "name": "Warri",
+    "name": "Warri Operations",
     "latitude": 5.5177,
     "longitude": 5.7500,
     "status": "active"
   },
   {
-    "name": "Lagos",
+    "name": "Lagos Operations",
     "latitude": 6.5244,
     "longitude": 3.3792,
     "status": "active"
   },
   {
-    "name": "Port Harcourt",
+    "name": "Port Harcourt Operations",
     "latitude": 4.8156,
     "longitude": 7.0498,
-    "status": "inactive"
+    "status": "active"
   }
 ]
